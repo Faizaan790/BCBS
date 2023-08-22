@@ -1,5 +1,5 @@
 # BCBS
-- Recreated Blue Cross Blue Shield Website for my coursework project using vanilla javascript.
+- Recreated Blue Cross Blue Shield Website for my coursework project using HTML, CSS & vanilla javascript.
 # Prerequisites 
 - Clone this repository and open this project on VS Code.
 - Use live server (VS extension) or simply open index.html on your browser.
